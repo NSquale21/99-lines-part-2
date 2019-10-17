@@ -1,0 +1,18 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+div.friend > h3, p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: #0892D0;
+}
+
+h3 {
+	text-transform: uppercase;
+}
